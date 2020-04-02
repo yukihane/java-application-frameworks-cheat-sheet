@@ -18,6 +18,7 @@
 
   <modules>
     <module>servlet-sample</module>
+    <module>spring-boot-sample</module>
   </modules>
 
   <dependencyManagement>
